@@ -3,6 +3,7 @@
 Created on Wed Nov 28 14:00:23 2018
 
 @author: StrongPria
+https://blog.keras.io/building-autoencoders-in-keras.html
 """
 
 import torch
