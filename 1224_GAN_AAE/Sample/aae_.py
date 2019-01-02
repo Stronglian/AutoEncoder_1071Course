@@ -1,3 +1,4 @@
+""" resource: https://github.com/eriklindernoren/Keras-GAN/blob/master/aae/aae.py """
 from __future__ import print_function, division
 
 from keras.datasets import mnist
